@@ -333,6 +333,12 @@ body {
     line-height: 1.5;
 }
 
+.icon-contact {
+    display: block;
+    color: rgb(12, 11, 11);
+    text-decoration: none;
+}
+
 .map-section img {
     width: 100%;
     filter: grayscale(50%);
